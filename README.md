@@ -12,7 +12,7 @@ This repository includes our model code and dataset for fault detection.
 
 This structure of our model looks just like the following illustration:
 
-<img src="D:\Github\Graph-Dynamic-Autoencoder\img\Structure of GDAE.png" alt="Structure of GDAE" style="zoom:60%;" />
+![structure of GDAE](https://github.com/luliu-fighting/Graph-Dynamic-Autoencoder/blob/main/img/Structure%20of%20GDAE.png)
 
 The experiments were performed on a computer with the following specifications:
 
